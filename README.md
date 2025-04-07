@@ -1,1 +1,2 @@
 # Budgetree-landpage-project
+A modern, responsive landing page designed for a fintech or digital banking platform. It features a sleek navigation bar with dropdown mega menus, animated scroll effects, tabbed content for multiple services (like Connected Banking, Identity Verification, Insurance, etc.), and stylish UI components using Bootstrap 5. The layout is optimized for both desktop and mobile, offering users an intuitive experience with engaging visuals and interactive elements.
